@@ -1,4 +1,4 @@
-# Detect-Device-and-Browser
+# Detect Device and Browser
 Detect wich device and browser the user is using on every page or just a certain page.
 
 To use it in page simply add an if statement with the user_os or user_browser to detect what are they using. For more 
